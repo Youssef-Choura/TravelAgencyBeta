@@ -1,7 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/flornikz/travelAgency.scanini.tn/travelAgency.scanini.tn
-
-
-
