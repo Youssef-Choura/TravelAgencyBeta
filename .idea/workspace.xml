@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d53b418-5e64-479e-9913-0d5c967b57ad" name="Changes" comment="cpanel yaml file" />
+    <list default="true" id="8d53b418-5e64-479e-9913-0d5c967b57ad" name="Changes" comment="unvers">
+      <change beforePath="$PROJECT_DIR$/.cpanel.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.cpanel.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,6 +250,8 @@
       <workItem from="1670949639220" duration="1444000" />
       <workItem from="1670956861205" duration="1533000" />
       <workItem from="1670958398727" duration="193000" />
+      <workItem from="1670961165934" duration="969000" />
+      <workItem from="1670962158057" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="Home page design commit">
       <created>1659502013633</created>
@@ -269,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670957500415</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="unvers">
+      <created>1670961297850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670961297850</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +301,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Home page design commit" />
     <MESSAGE value="cpanel yaml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="cpanel yaml file" />
+    <MESSAGE value="unvers" />
+    <option name="LAST_COMMIT_MESSAGE" value="unvers" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
